@@ -1,23 +1,5 @@
 [
   {
-    "id": 1,
-    "keresztNev": "Példa",
-    "vezetekNev": "Béla",
-    "fizetes": 200000
-  },
-  {
-    "id": 2,
-    "keresztNev": "Tibor",
-    "vezetekNev": "Nagy",
-    "fizetes": 182500
-  },
-  {
-    "id": 3,
-    "keresztNev": "Tibor",
-    "vezetekNev": "Nagy",
-    "fizetes": 182500
-  },
-  {
     "id": 4,
     "keresztNev": "Tibor",
     "vezetekNev": "Nagy",
